@@ -6,6 +6,7 @@ names = ['Finland', 'Sweden', 'Norway','Denmark','Iceland', 'Estonia','Russia']
 
 *nordic_countries , es , ru = names
 print(nordic_countries, es , ru)
-
+#output
+# ['Finland', 'Sweden', 'Norway', 'Denmark', 'Iceland'] Estonia Russia
 *n, s , f , t , u = names
 print(n,s,f,t,u)

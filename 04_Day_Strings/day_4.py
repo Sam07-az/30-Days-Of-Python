@@ -9,6 +9,7 @@ print(len(greeting))        # 13
 sentence = "I hope you are enjoying 30 days of python challenge"
 print(sentence)
 print(letter)
+print("sam")
 # Multiline String
 multiline_string = '''I am a teacher and enjoy teaching.
 I didn't find anything as rewarding as empowering people.
